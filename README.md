@@ -25,7 +25,7 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Next.Js-05122A?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
 <br />
-![TailwindCSS](https://img.shields.io/badge/-TailwindcSS-05122A?style=flat&logo=Tailwindcss)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=Tailwindcss)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=antdesign&logoColor=3d85c6)&nbsp;
 ![Shadcn](https://img.shields.io/badge/-Shadcn/ui-05122A?style=flat&logo=shadcnui&logoColor=ffffff)&nbsp;
@@ -44,4 +44,4 @@
  
  <br />
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ghanasyam-n&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghanasyam-n&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
