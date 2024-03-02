@@ -42,4 +42,4 @@
  
  <br />
  
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghanasyam-n&theme=react-dark)]
+ [![Ghanasyam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ghanasyam-n&theme=react-dark)]
