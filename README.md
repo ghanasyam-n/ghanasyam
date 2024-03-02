@@ -23,7 +23,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.Js-05122A?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
-![Flutter](https://img.shields.io/badge/-Next.Js-05122A?style=flat&logo=next.js&logoColor=ffffff)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=ffffff)&nbsp;
 <br />
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=Tailwindcss)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
