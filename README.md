@@ -23,6 +23,10 @@
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=2986cc)&nbsp;
 <br />
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=674ea7)&nbsp;
+![Zustand](https://img.shields.io/badge/-Zustand-05122A?style=flat)&nbsp;
+![Riverpod](https://img.shields.io/badge/-Riverpod-05122A?style=flat&logo=dart&logoColor=2986cc)&nbsp;
+<br />
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=Tailwindcss)&nbsp;
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui)&nbsp;
 ![Ant Design](https://img.shields.io/badge/-Ant%20Design-05122A?style=flat&logo=antdesign&logoColor=3d85c6)&nbsp;
