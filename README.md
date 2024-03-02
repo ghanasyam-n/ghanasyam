@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ghanasyam;
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ghanasyam
 
  I'm a passionate and creative Front-End Developer with 3+ years of experience crafting innovative and user-friendly web and mobile experiences.
 
