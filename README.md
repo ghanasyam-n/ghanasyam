@@ -1,8 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Ghanasyam;
 
-* I'm a Software Developer from India
-* I love building tech, teaching and learning new technologies
-
+* I'm a Front-End Developer from India
+* I'm a passionate and creative Front-End Developer with 3+ years of experience crafting innovative and user-friendly web and mobile experiences.
 
 <a href="https://www.linkedin.com/in/ghanasyamns/">
   <img align="left" alt="Ghanasyam's LinkedIN" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
